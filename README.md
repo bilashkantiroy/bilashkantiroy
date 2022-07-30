@@ -1,7 +1,7 @@
-(https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/295393819_3215477938726185_8439084425278785708_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFgUB6Box8uP0miU1FT7aX_yXpsaCrizx7JemxoKuLPHjT5zzs3C2F3BvoabQ8NUfAzolW5NUPeBbbU-bNcWBB3&_nc_ohc=N8iCrpCRyYsAX8Y-T88&_nc_ht=scontent.fdac137-1.fna&oh=00_AT-Ao9SeVUzwdNIN_qPWCADL-PlDIJwaqdJCsvmRVYVREA&oe=62EADA0B)
+![Web Developer & Graphics Designer](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/295393819_3215477938726185_8439084425278785708_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFgUB6Box8uP0miU1FT7aX_yXpsaCrizx7JemxoKuLPHjT5zzs3C2F3BvoabQ8NUfAzolW5NUPeBbbU-bNcWBB3&_nc_ohc=N8iCrpCRyYsAX8Y-T88&_nc_ht=scontent.fdac137-1.fna&oh=00_AT-Ao9SeVUzwdNIN_qPWCADL-PlDIJwaqdJCsvmRVYVREA&oe=62EADA0B)
 ### Hi there 👋, I'm Bilash Kanti Roy
 #### Web Developer & Graphics Designer
-![Web Developer & Graphics Designer]
+
 I am a web developer and graphic design student. I have been learning programming languages, web development, graphics design and computer science from many Bengali, English and Hindi mentors worldwide for the past four years through my teachers and YouTube channel. I had the opportunity to study and work while studying at Bangladesh National University. In 2021 I spent a lot of time improving my web development skills. Every day I want to learn something new and share my knowledge with others.
 
 Skills: REACT / JS / HTML / CSS / 
